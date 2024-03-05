@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\bin\Debug\net6.0-windows\Dự án 1.exe
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\bin\Debug\net6.0-windows\Dự án 1.deps.json
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\bin\Debug\net6.0-windows\Dự án 1.runtimeconfig.json
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\bin\Debug\net6.0-windows\Dự án 1.dll
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\bin\Debug\net6.0-windows\Dự án 1.pdb
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự_án_1.Form1.resources
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự_án_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.dll
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\refint\Dự án 1.dll
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.pdb
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự án 1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\ref\Dự án 1.dll
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự_án_1.GUI.Đăng_Ký.resources
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự_án_1.GUI.GiaoDIen.resources
+C:\Users\Admin\Desktop\Dự án 1\Dự án 1\obj\Debug\net6.0-windows\Dự_án_1.GUI.Cafe.resources
